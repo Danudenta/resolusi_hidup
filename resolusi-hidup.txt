@@ -4,3 +4,4 @@ bisa php minimal laravel ajalah
 paham ai sama machine learning 
 paham blender sama bikin game di unity 
 speak fluently german language 
+laksanakan project happy nation
